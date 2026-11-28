@@ -100,3 +100,12 @@ footer.site {
 footer.site p { margin: 0 0 0.4em; }
 strong { font-weight: 650; }
 .back { display: inline-block; margin-bottom: 22px; color: var(--muted); font-size: 0.92rem; }
+.desktop-promo {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  padding: 16px 18px 14px;
+  margin: 0 0 2.5em;
+}
+.desktop-promo h2 { margin: 0 0 0.35em; font-size: 1.15rem; }
+.desktop-promo p { margin: 0; }

@@ -1,12 +1,12 @@
 # Carina Apps
 
-Public website and privacy policies for [Carina Apps](https://younggraphix.github.io/carina-apps/).
+Public website and privacy policies for [Carina Apps](https://younggraphix.github.io/carina-apps/), including [Carina Tasks for desktop](https://younggraphix.github.io/carina-apps/desktop/tasks/).
 
 GitHub Pages is served from the `main` branch (root). The site is static HTML — `.nojekyll` is present so GitHub does not run Jekyll.
 
 ## Privacy policy URLs
 
-The live site lists every app and links to its policy under `/privacy/<app>/`.
+The live site lists every app and links to its policy under `/privacy/<app>/`. Carina Tasks for desktop is at `/desktop/tasks/`. Installers are GitHub Release assets (tag `v1.2.0-desktop`), not files in this branch.
 
 **Do not remove or rename `privacy-policy.html` at the repository root.** That file is the Lift Tracker policy already used on Google Play:
 
